@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-10 px-6">
+    <footer className="bg-blue-950 text-white py-10 px-6">
       <div className="max-w-6xl mx-auto text-sm">
         <div className="flex justify-around mb-10">
           <h4 className="font-semibold mb-2">Popular topics</h4>
@@ -13,10 +13,11 @@ function Footer() {
             <li><a href="#" className="hover:underline">Wi-Fi</a></li>
             <li><a href="#" className="hover:underline">Change flights</a></li>
             <li><a href="#" className="hover:underline">United Club</a></li>
+            <li><a href="#" className="hover:underline">Traveling with pets</a></li>
+            <li><a href="#" className="hover:underline">MileagePlus</a></li>
+            <li><a href="#" className="hover:underline">Baggage</a></li>
             <li><a href="#" className="hover:underline">Refund</a></li>
             <li><a href="#" className="hover:underline">Help Center</a></li>
-            <li><a href="#" className="hover:underline">About United</a></li>
-            <li><a href="#" className="hover:underline">Careers</a></li>
           </ul>
        
         
